@@ -95,14 +95,6 @@ num_csv_files = count_csv_files(DATA_FOLDER)
 print(f"\nNumber of CSV files in the {DATA_FOLDER} folder: {num_csv_files}\n")
 
 
-file_path = os.path.join(DATA_FOLDER, '4BIGEURORECD.csv')
-df = pd.read_csv(file_path)
-
-print("\nFirst 10 rows of 4BIGEURORECD:")
-print("=" * 30)
-print(df.tail(10))
-print("=" * 30)
-
 file_path = os.path.join(DATA_FOLDER, 'AAA10Y.csv')
 df = pd.read_csv(file_path)
 
