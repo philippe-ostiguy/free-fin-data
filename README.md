@@ -23,7 +23,7 @@ you time and money while ensuring quality.
 <br>
 ## Usage
 
-It is recommended to read [this article](hhttps://levelup.gitconnected.com/get-free-and-reliable-financial-market-data-machine-learning-ready-246e59b00cea) 
+It is recommended to read [this article](https://levelup.gitconnected.com/get-free-and-reliable-financial-market-data-machine-learning-ready-246e59b00cea) 
 for a good understanding of how to obtain the data, transform it and train a
 with it.
 
